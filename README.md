@@ -8,7 +8,6 @@ My name is Nureddin Haji
 *   🖥️  See my portfolio at [My Portfolio](http:///)
 *   🚀  I'm currently working on [My Portfolio](http:///)
 *   🧠  I'm learning Front End Development in ALMDRASA
-*   ✉️  You can contact me at [drnhaji@gmail.com](mailto:drnhaji@gmail.com)
 
 <br />
 <blockquote>⚡  My passion lies in creating solutions that make a difference.</blockquote>
