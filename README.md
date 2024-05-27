@@ -1,14 +1,15 @@
-Welcom to my profile 👋 My name is Nureddin Haji
+Welcom to my profile 👋 
+My name is Nureddin Haji
 ==============================
 
 👨‍⚕️ MD | 👨‍💻 Front End Developer
 ------------------------
 
-*   🌍  I'm based in Ankara/Turkey
 *   🖥️  See my portfolio at [My Portfolio](http:///)
 *   🚀  I'm currently working on [My Portfolio](http:///)
 *   🧠  I'm learning Front End Development in ALMDRASA
-*   *   ✉️  You can contact me at [drnhaji@gmail.com](mailto:drnhaji@gmail.com)
+*   ✉️  You can contact me at [drnhaji@gmail.com](mailto:drnhaji@gmail.com)
+
 <br />
 <blockquote>⚡  My passion lies in creating solutions that make a difference.</blockquote>
 <br />
