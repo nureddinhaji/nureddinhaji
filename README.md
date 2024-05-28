@@ -13,7 +13,9 @@ My name is Nureddin Haji
 
 <br />
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Colored Line" />
- <p><b>⚡  My passion lies in creating solutions that make a difference.</b></p>
+
+### ⚡  My passion lies in creating solutions that make a difference.
+
  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Colored Line" />
 <br />
 <h2>👨‍💻 I Develope With</h2>
