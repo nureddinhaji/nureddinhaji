@@ -13,8 +13,8 @@ My name is Nureddin Haji
 
 <br />
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Colored Line" />
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=0DBD34&background=FFFFFF00&random=false&width=435&lines=+My+passion+lies+in+creating+solutions+that+make+a+difference.)](https://git.io/typing-svg)
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Colored Line" />
+ <p><b>⚡  My passion lies in creating solutions that make a difference.</b></p>
+ <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Colored Line" />
 <br />
 <h2>👨‍💻 I Develope With</h2>
 <p>
@@ -51,5 +51,6 @@ My name is Nureddin Haji
 <a target="_blank" href="https://www.linkedin.com/in/nureddinhaji" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" width="130px" /></a>
 <a target="_blank" href="https://www.facebook.com/nureddinhaji" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" width="130px" /></a>
 <a target="_blank" href="https://www.codepen.io/nureddinhaji" style="display: inline-block;"><img src="https://img.shields.io/badge/CodePen-logo?style=for-the-badge&logo=codepen&logoColor=white&color=black" alt="codepen" width="120px" /></a>
-<a target="_blank" href="https://www.codepen.io/nureddinhaji" style="display: inline-block;"><img src="https://img.shields.io/badge/telegram-logo?style=for-the-badge&logo=telegram&logoColor=white&color=blue" alt="codepen" width="130px" /></a></p>
+<a target="_blank" href="https://t.me/nureddinhaji" style="display: inline-block;"><img src="https://img.shields.io/badge/telegram-logo?style=for-the-badge&logo=telegram&logoColor=white&color=blue" alt="telegram" width="130px" /></a>
+<a target="_blank" href="https://medium.com/@nureddinhaji" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="telegram" width="112px" /></a></p>
 
