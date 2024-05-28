@@ -13,7 +13,7 @@ My name is Nureddin Haji
 
 <br />
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Colored Line" />
-<p><b>⚡  My passion lies in creating solutions that make a difference.</b></p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=0DBD34&background=FFFFFF00&random=false&width=435&lines=+My+passion+lies+in+creating+solutions+that+make+a+difference.)](https://git.io/typing-svg)
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Colored Line" />
 <br />
 <h2>👨‍💻 I Develope With</h2>
