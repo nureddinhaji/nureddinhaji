@@ -1,16 +1,20 @@
 Welcom to my profile 👋 
 My name is Nureddin Haji
 ==============================
-
 👨‍⚕️ MD | 👨‍💻 Front End Developer
 ------------------------
+
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Colored Line" />
+
 
 *   🖥️  See my portfolio at [My Portfolio](http:///)
 *   🚀  I'm currently working on [My Portfolio](http:///)
 *   🧠  I'm learning Front End Development in ALMDRASA
 
 <br />
-<blockquote>⚡  My passion lies in creating solutions that make a difference.</blockquote>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Colored Line" />
+<p><b>⚡  My passion lies in creating solutions that make a difference.</b></p>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Colored Line" />
 <br />
 <h2>👨‍💻 I Develope With</h2>
 <p>
@@ -23,10 +27,16 @@ My name is Nureddin Haji
 <br />
 <h2>🧰 Tools I Use</h2>
 <p>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" />
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" />
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visualstudio_code" width="42" height="42" />
-  <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="stackoverflow" width="42" height="42" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="42" height="42" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="42" height="42" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42" height="42" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="42" height="42" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" width="42" height="42" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg" width="42" height="42" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codepen/codepen-original.svg" width="42" height="42" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="42" height="42" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firefox/firefox-original.svg" width="42" height="42" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="42" height="42" />
   <img src="https://www.vectorlogo.zone/logos/blogger/blogger-icon.svg" alt="blogger" width="42" height="42" />
   <img src="https://www.vectorlogo.zone/logos/w3schools/w3schools-icon.svg" alt="w3schools" width="42" height="42" />
   <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="microsoft" width="42" height="42" />
@@ -34,8 +44,6 @@ My name is Nureddin Haji
   <img src="https://www.vectorlogo.zone/logos/jsdelivr/jsdelivr-icon.svg" alt="jsdelivr" width="42" height="42" />
   <img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="devto" width="42" height="42" />
   <img src="https://www.vectorlogo.zone/logos/feedly/feedly-icon.svg" alt="feedly" width="42" height="42" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="42" height="42" />
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="42" height="42" />
 </p>
 <br />               
 <h2>⚡️ Where to find me</h2>
