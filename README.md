@@ -51,8 +51,8 @@ My name is Nureddin Haji
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://twitter.com/nureddinhaji" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" width="120px" /></a>
 <a target="_blank" href="https://www.linkedin.com/in/nureddinhaji" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" width="130px" /></a>
-<a target="_blank" href="https://www.facebook.com/nureddinhaji" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" width="130px" /></a>
 <a target="_blank" href="https://www.codepen.io/nureddinhaji" style="display: inline-block;"><img src="https://img.shields.io/badge/CodePen-logo?style=for-the-badge&logo=codepen&logoColor=white&color=black" alt="codepen" width="120px" /></a>
 <a target="_blank" href="https://t.me/nureddinhaji" style="display: inline-block;"><img src="https://img.shields.io/badge/telegram-logo?style=for-the-badge&logo=telegram&logoColor=white&color=blue" alt="telegram" width="130px" /></a>
-<a target="_blank" href="https://medium.com/@nureddinhaji" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="telegram" width="112px" /></a></p>
+<a target="_blank" href="https://medium.com/@nureddinhaji" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="telegram" width="112px" /></a>
+<a target="_blank" href="https://www.facebook.com/nureddinhaji" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" width="130px" /></a></p>
 
