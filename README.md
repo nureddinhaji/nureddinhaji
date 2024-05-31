@@ -6,9 +6,6 @@ My name is Nureddin Haji
 
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Colored Line" />
 
-
-*   🖥️  See my portfolio at [My Portfolio](http:///)
-*   🚀  I'm currently working on [My Portfolio](http:///)
 *   🧠  I'm learning Front End Development in ALMDRASA
 
 <br />
