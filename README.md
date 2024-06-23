@@ -1,55 +1,84 @@
-Welcom to my profile 👋 
-My name is Nureddin Haji
-==============================
-👨‍⚕️ MD | 👨‍💻 Front End Developer
-------------------------
+<h1 align="center">Hello World!!</h1>
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Colored Line" />
+###
 
-*   🧠  I'm learning Front End Development in ALMDRASA
+<h2 align="center">Welcome to my GitHub profile 👋 My name is Nureddin Haji</h2>
 
-<br />
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Colored Line" />
+###
 
-### ⚡  My passion lies in creating solutions that make a difference.
-
- <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Colored Line" />
-<br />
-<h2>👨‍💻 I Develope With</h2>
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" width="90px" alt="html" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" width="80px" alt="css" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square" width="122px" alt="javascript" />
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square" width="83px" alt="reactjs" />
-  <img src="https://img.shields.io/badge/firebase-ffca28?logo=firebase&logoColor=black&style=flat-square" width="107px" alt="firebase" />
-</p>
-<br />
-<h2>🧰 Tools I Use</h2>
-<p>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="42" height="42" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="42" height="42" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42" height="42" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="42" height="42" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" width="42" height="42" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg" width="42" height="42" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codepen/codepen-original.svg" width="42" height="42" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="42" height="42" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firefox/firefox-original.svg" width="42" height="42" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="42" height="42" />
-  <img src="https://www.vectorlogo.zone/logos/blogger/blogger-icon.svg" alt="blogger" width="42" height="42" />
-  <img src="https://www.vectorlogo.zone/logos/w3schools/w3schools-icon.svg" alt="w3schools" width="42" height="42" />
-  <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="microsoft" width="42" height="42" />
-  <img src="https://www.vectorlogo.zone/logos/mozilla/mozilla-icon.svg" alt="mozilla" width="42" height="42" />
-  <img src="https://www.vectorlogo.zone/logos/jsdelivr/jsdelivr-icon.svg" alt="jsdelivr" width="42" height="42" />
-  <img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="devto" width="42" height="42" />
-  <img src="https://www.vectorlogo.zone/logos/feedly/feedly-icon.svg" alt="feedly" width="42" height="42" />
-</p>
-<br />               
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://twitter.com/nureddinhaji" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" width="120px" /></a>
+<p align="center"><a target="_blank" href="https://twitter.com/nureddinhaji" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" width="120px" /></a>
 <a target="_blank" href="https://www.linkedin.com/in/nureddinhaji" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" width="130px" /></a>
 <a target="_blank" href="https://www.codepen.io/nureddinhaji" style="display: inline-block;"><img src="https://img.shields.io/badge/CodePen-logo?style=for-the-badge&logo=codepen&logoColor=white&color=black" alt="codepen" width="120px" /></a>
 <a target="_blank" href="https://t.me/nureddinhaji" style="display: inline-block;"><img src="https://img.shields.io/badge/telegram-logo?style=for-the-badge&logo=telegram&logoColor=white&color=blue" alt="telegram" width="130px" /></a>
 <a target="_blank" href="https://medium.com/@nureddinhaji" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="telegram" width="112px" /></a>
 <a target="_blank" href="https://www.facebook.com/nureddinhaji" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" width="130px" /></a></p>
 
+<div align="center">
+  <img height="335" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"  />
+</div>
+
+###
+
+<h2 align="left">About me:</h2>
+
+###
+
+* 👨‍⚕️ I am a Doctor of Medicine (M.D.).
+* 💻 I am a Front-End Developer.
+* ⚒ I now work as a Freelancer.</p>
+
+###
+
+<h2 align="left">I can develop with:</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+</div>
+
+###
+
+<h2 align="left">I can user:</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+</div>
+
+###
+
+<h2 align="left">Some stats from my GitHub:</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nureddinhaji&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=nureddinhaji&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=nureddinhaji&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
