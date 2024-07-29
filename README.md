@@ -14,7 +14,7 @@
 <a target="_blank" href="https://www.facebook.com/nureddinhaji" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" width="130px" /></a></p>
 
 <div align="center">
-  <a href="#" style="display: inline-block;"><img height="335" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"  /></a>
+  <a style="display: inline-block;"><img height="335" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"  /></a>
 </div>
 
 ###
