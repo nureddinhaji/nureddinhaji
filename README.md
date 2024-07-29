@@ -84,7 +84,8 @@
 ###
 
 <style>
-img {
-  cursor: default;
+.markdown-body img {
+    cursor: default !important;
 }
+
 </style>
