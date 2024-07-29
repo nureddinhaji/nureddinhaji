@@ -82,10 +82,3 @@
 </div>
 
 ###
-
-<style>
-.markdown-body img {
-    cursor: default !important;
-}
-
-</style>
